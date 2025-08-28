@@ -1,3 +1,5 @@
+
+<?php
 add_shortcode('product_cards', function($atts) {
     $template_id = 8717;
 
